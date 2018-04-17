@@ -1,0 +1,3 @@
+ru\cubesolutions\evam\photo2rabbitmqaction\DBConfig.class
+ru\cubesolutions\evam\photo2rabbitmqaction\PhotoStorage.class
+ru\cubesolutions\evam\photo2rabbitmqaction\SendPhoto2RabbitMQ.class
